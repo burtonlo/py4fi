@@ -1,3 +1,8 @@
+BLO notes:
+To get local clone of code:  git clone https://github.com/burtonlo/py4fi
+To view files             :  Jupyter Notebook 06_Financial_Time_Series.ipynb
+
+
 # Python for Finance (O'Reilly)
 
 This repository provides all Python codes and IPython Notebooks of the book _Python for Finance_ by Yves Hilpisch.
